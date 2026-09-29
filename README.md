@@ -7,7 +7,7 @@
 | Tulip Interfaces | Senior Customer Success Manager, General Manufacturing | Remote | Submitted | 2026-09-28 | $100,000–$160,000/yr | [Indeed](https://www.indeed.com/jobs?q=customer+success+manager&l=Remote&vjk=e8eb1a54c2428760) / [Company posting](https://tulip.co/careers/job-posting/?gh_jid=7819154003) — Submitted 2026-09-28 | Indeed | Cooper |
 | Zenoti | Lead Customer Success Manager | Bellevue, WA | Screening | 2026-09-27 | $135,000–$140,000/yr | [Indeed](https://www.indeed.com/jobs?q=customer+success+manager&l=Seattle%2C+WA&vjk=c8f591105033ea0d) | Indeed |  |
 | Okta | Success Insights Manager | Bellevue, WA | Screening | 2026-09-27 | $116,000–$174,000/yr | [Indeed](https://www.indeed.com/jobs?q=customer+success+manager&l=Seattle%2C+WA&vjk=113f15526b296c0a) | Indeed |  |
-| Example | Senior CSM | Bellevue, WA | 尚未投遞 | 2026-09-27 | TBD |  |
+| Example | Senior CSM | Bellevue, WA | 尚未投遞 | 2026-09-27 | TBD |  |  |  |
 | ServiceNow | Digital Customer Success Program Manager | Remote | Skipped | 2026-09-28 | $116,400–$192,100/yr | [Indeed](https://www.indeed.com/jobs?q=customer+success+manager&l=Remote&vjk=f65625fedeec607a) / [Company posting](https://careers.servicenow.com/jobs/744000144379209/digital-customer-success-program-manager/) — skipped: posting expired, no longer accepting applications (verified 2026-09-28) | Indeed |  |
 | Dropbox | Customer Success Manager | Remote (US) | Skipped | 2026-09-27 | $126,800–$193,100/yr | [Indeed](https://www.indeed.com/jobs?q=customer+success+manager&l=Remote&vjk=38237aa1512d9cc1) — skipped: remote US but not hiring in Seattle metro (Zone 1) | Indeed |  |
 
