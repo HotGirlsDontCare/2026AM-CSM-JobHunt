@@ -1,5 +1,7 @@
 # 2026 AM & CSM Job Hunt Tracker
 
+| Company | Role | Location | Status | Salary Range | Job Link / Notes | Source | Agent|
+| :--- | :--- | :--- | :--- | :--- | :--- |:--- |:--- |
 | Tulip Interfaces | Senior Customer Success Manager, General Manufacturing | Remote | Submitted | $100,000–$160,000/yr | [Indeed](https://www.indeed.com/jobs?q=customer+success+manager&l=Remote&vjk=e8eb1a54c2428760) / [Company posting](https://tulip.co/careers/job-posting/?gh_jid=7819154003) — Submitted 2026-09-28 | Indeed | Cooper |
 | Afresh | Enterprise Account Manager | Remote | Submitted | $230,000 OTE ($160K base + $70K var) | [Indeed](https://www.indeed.com/jobs?q=senior+account+manager&l=Remote&vjk=29bdf13acdfd8cd2) / [Company posting](https://job-boards.greenhouse.io/afresh/jobs/6139678004) — Submitted 2026-09-28 | Indeed | Cooper |
 | AfterShip | Senior Web Marketing Manager | Remote-first | Submitted | $160,000–$204,000/yr | [Indeed](https://www.indeed.com/jobs?q=ecommerce+manager&l=Remote&vjk=76b8555a186d6a6b) / [Company posting](https://www.aftership.com/careers/jobs/6147902004) — Submitted 2026-09-28 | Indeed | Cooper |
@@ -34,5 +36,3 @@
 | Cisco (Splunk) | Virtual Sales Account Executive, Federal Civilian | Remote (US) | Skipped | $109,000–$165,800/yr | [Indeed](https://www.indeed.com/jobs?q=account+executive&l=Remote&radius=25&from=searchOnDesktopSerp&vjk=3752193b275109ab) — skipped: requires federal sales experience (candidate ruled out) | Indeed |  |
 | Zuora | Enterprise Account Executive, Expand | Boston, MA (remote TBD) | Skipped | $275,000–$325,000 OTE | [Indeed](https://www.indeed.com/jobs?q=account+executive&l=Remote&radius=25&from=searchOnDesktopSerp&vjk=e816467db5bbd3ac) — skipped: not remote-eligible (Atlanta/Boston/NYC office cities only) | Indeed |  |
 | TripleLift | Partner Manager | Remote | Skipped | $90,000–$130,000/yr | [Indeed](https://www.indeed.com/jobs?q=partner+manager&l=Remote&from=searchOnHP&vjk=e5895d20b341ccd4) — skipped: not remote — Los Angeles/San Francisco office-based | Indeed |  |
-| Company | Role | Location | Status | Salary Range | Job Link / Notes | Source | Agent|
-| :--- | :--- | :--- | :--- | :--- | :--- |:--- |:--- |
