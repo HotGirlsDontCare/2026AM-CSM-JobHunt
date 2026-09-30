@@ -10,7 +10,7 @@
 | Example | Senior CSM | Bellevue, WA | 尚未投遞 | 2026-09-27 | TBD |  |  |  |
 | ServiceNow | Digital Customer Success Program Manager | Remote | Skipped | 2026-09-28 | $116,400–$192,100/yr | [Indeed](https://www.indeed.com/jobs?q=customer+success+manager&l=Remote&vjk=f65625fedeec607a) / [Company posting](https://careers.servicenow.com/jobs/744000144379209/digital-customer-success-program-manager/) — skipped: posting expired, no longer accepting applications (verified 2026-09-28) | Indeed |  |
 | Dropbox | Customer Success Manager | Remote (US) | Skipped | 2026-09-27 | $126,800–$193,100/yr | [Indeed](https://www.indeed.com/jobs?q=customer+success+manager&l=Remote&vjk=38237aa1512d9cc1) — skipped: remote US but not hiring in Seattle metro (Zone 1) | Indeed |  |
-| Airbnb | Program Manager, Community Support | US - Remote Eligible | Drafting application | 2026-09-29 | $156,000-$193,000 base + bonus/equity | [Company posting](https://careers.airbnb.com/positions/7944540/?gh_src=34ewj2) — tailored resume + cover letter ready, awaiting Hsuan review (needs: how-heard source, non-compete answer) | Direct | Cooper |
+| Airbnb | Program Manager, Community Support | US - Remote Eligible | Submitted | 2026-09-29 | $156,000-$193,000 base + bonus/equity | [Company posting](https://careers.airbnb.com/positions/7944540/?gh_src=34ewj2) — applied by Allison 2026-09-29 (self-submitted); tailored resume + cover letter used | Direct | Cooper |
 
 ## Account Management
 
