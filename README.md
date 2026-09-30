@@ -4,7 +4,7 @@
 
 | Company | Role | Location | Status | Date of latest update | Salary Range | Job Link / Notes | Source | Agent |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tulip Interfaces | Senior Customer Success Manager, General Manufacturing | Remote | Submitted | 2026-09-28 | $100,000–$160,000/yr | [Indeed](https://www.indeed.com/jobs?q=customer+success+manager&l=Remote&vjk=e8eb1a54c2428760) / [Company posting](https://tulip.co/careers/job-posting/?gh_jid=7819154003) — Submitted 2026-09-28; rejected 2026-09-30 | Indeed | Cooper |
+| Tulip Interfaces | Senior Customer Success Manager, General Manufacturing | Remote | Rejected | 2026-09-30 | $100,000–$160,000/yr | [Indeed](https://www.indeed.com/jobs?q=customer+success+manager&l=Remote&vjk=e8eb1a54c2428760) / [Company posting](https://tulip.co/careers/job-posting/?gh_jid=7819154003) — Submitted 2026-09-28; rejected 2026-09-30 | Indeed | Cooper |
 | Zenoti | Lead Customer Success Manager | Bellevue, WA | Screening | 2026-09-27 | $135,000–$140,000/yr | [Indeed](https://www.indeed.com/jobs?q=customer+success+manager&l=Seattle%2C+WA&vjk=c8f591105033ea0d) | Indeed |  |
 | Okta | Success Insights Manager | Bellevue, WA | Screening | 2026-09-27 | $116,000–$174,000/yr | [Indeed](https://www.indeed.com/jobs?q=customer+success+manager&l=Seattle%2C+WA&vjk=113f15526b296c0a) | Indeed |  |
 | Example | Senior CSM | Bellevue, WA | 尚未投遞 | 2026-09-27 | TBD |  |  |  |
