@@ -4,7 +4,7 @@
 
 | Company | Role | Location | Status | Date of latest update | Salary Range | Job Link / Notes | Source | Agent |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tulip Interfaces | Senior Customer Success Manager, General Manufacturing | Remote | Submitted | 2026-09-28 | $100,000–$160,000/yr | [Indeed](https://www.indeed.com/jobs?q=customer+success+manager&l=Remote&vjk=e8eb1a54c2428760) / [Company posting](https://tulip.co/careers/job-posting/?gh_jid=7819154003) — Submitted 2026-09-28 | Indeed | Cooper |
+| Tulip Interfaces | Senior Customer Success Manager, General Manufacturing | Remote | Submitted | 2026-09-28 | $100,000–$160,000/yr | [Indeed](https://www.indeed.com/jobs?q=customer+success+manager&l=Remote&vjk=e8eb1a54c2428760) / [Company posting](https://tulip.co/careers/job-posting/?gh_jid=7819154003) — Submitted 2026-09-28; rejected 2026-09-30 | Indeed | Cooper |
 | Zenoti | Lead Customer Success Manager | Bellevue, WA | Screening | 2026-09-27 | $135,000–$140,000/yr | [Indeed](https://www.indeed.com/jobs?q=customer+success+manager&l=Seattle%2C+WA&vjk=c8f591105033ea0d) | Indeed |  |
 | Okta | Success Insights Manager | Bellevue, WA | Screening | 2026-09-27 | $116,000–$174,000/yr | [Indeed](https://www.indeed.com/jobs?q=customer+success+manager&l=Seattle%2C+WA&vjk=113f15526b296c0a) | Indeed |  |
 | Example | Senior CSM | Bellevue, WA | 尚未投遞 | 2026-09-27 | TBD |  |  |  |
@@ -17,7 +17,7 @@
 | Company | Role | Location | Status | Date of latest update | Salary Range | Job Link / Notes | Source | Agent |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | OpenAI | Account Manager | Seattle, WA (Hybrid) | Submitted | 2026-09-29 | $176K - $234K | [JD 連結](#) / 聯絡內推 — Submitted 2026-09-28 | LinkedIn | Self |
-| Afresh | Enterprise Account Manager | Remote | Submitted | 2026-09-28 | $230,000 OTE ($160K base + $70K var) | [Indeed](https://www.indeed.com/jobs?q=senior+account+manager&l=Remote&vjk=29bdf13acdfd8cd2) / [Company posting](https://job-boards.greenhouse.io/afresh/jobs/6139678004) — Submitted 2026-09-28 | Indeed | Cooper |
+| Afresh | Enterprise Account Manager | Remote | Rejected | 2026-09-30 | $230,000 OTE ($160K base + $70K var) | [Indeed](https://www.indeed.com/jobs?q=senior+account+manager&l=Remote&vjk=29bdf13acdfd8cd2) / [Company posting](https://job-boards.greenhouse.io/afresh/jobs/6139678004) — Submitted 2026-09-28; rejected 2026-09-30 | Indeed | Cooper |
 | Affirm | Senior Accounts Management Manager | Remote-first | Submitted | 2026-09-29 | $231,250–$306,250 OTE (WA) + equity | [Company posting](https://job-boards.greenhouse.io/affirm/jobs/7906836003) — Submitted 2026-09-29 | Indeed | Cooper |
 | Extend | Account Manager, Enterprise Growth Strategy | Remote | Interview | 2026-09-29 | $140,000 OTE | [Company posting](https://job-boards.greenhouse.io/extend/jobs/6206957004) — Interview invitation received 2026-09-29; Hsuan confirmed listing is tagged as a remote role | Direct | Hsuan |
 | monday.com | Enterprise Account Manager | Remote, US | Submitted | 2026-09-29 | $153,600–$182,400 base; $256,000–$304,000 OTE + RSUs | [Company posting](https://monday.com/careers/08972fcc-19b9-4101-abea-a1f3a22cd219) — Submitted 2026-09-29 (Remote, US confirmed); note: form had no cover letter, phone, location, or salary fields | Direct | Cooper |
@@ -39,7 +39,7 @@
 
 | Company | Role | Location | Status | Date of latest update | Salary Range | Job Link / Notes | Source | Agent |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| AfterShip | Senior Web Marketing Manager | Remote-first | Submitted | 2026-09-28 | $160,000–$204,000/yr | [Indeed](https://www.indeed.com/jobs?q=ecommerce+manager&l=Remote&vjk=76b8555a186d6a6b) / [Company posting](https://www.aftership.com/careers/jobs/6147902004) — Submitted 2026-09-28 | Indeed | Cooper |
+| AfterShip | Senior Web Marketing Manager | Remote-first | Submitted | 2026-09-28 | $160,000–$204,000/yr | [Indeed](https://www.indeed.com/jobs?q=ecommerce+manager&l=Remote&vjk=76b8555a186d6a6b) / [Company posting](https://www.aftership.com/careers/jobs/6147902004) — Submitted 2026-09-28; rejected 2026-09-30 | Indeed | Cooper |
 | Talking Rain Beverage | Sr. Direct to Consumer & Owned Channels Manager | Preston, WA (hybrid) | Screening | 2026-09-27 | $105,000–$140,000/yr + 8% bonus | [Indeed](https://www.indeed.com/jobs?q=ecommerce+manager&l=Seattle%2C+WA&vjk=12f7ca4e67f14ece) | Indeed |  |
 | The Pokémon Company International | Product Marketing Manager, Ecommerce | Bellevue, WA (hybrid) | Screening | 2026-09-27 | $95,000–$172,000/yr | [Indeed](https://www.indeed.com/jobs?q=ecommerce+manager&l=Seattle%2C+WA&vjk=a4ba59b87386b684) | Indeed |  |
 | ScaleJet (for Fabula) | TikTok Shop Growth Manager | Remote (contract) | Skipped | 2026-09-27 | From $5,000/month | [Indeed](https://www.indeed.com/jobs?q=ecommerce+manager&l=Remote&start=10&vjk=3c18239273b8b8cb) — skipped: contract role (candidate ruled out) | Indeed |  |
@@ -48,7 +48,7 @@
 
 | Company | Role | Location | Status | Date of latest update | Salary Range | Job Link / Notes | Source | Agent |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ravenna | Product Marketing Manager (Founding) | Seattle / Remote | Submitted | 2026-09-28 | Not shown (early-stage + equity) | [Indeed](https://www.indeed.com/jobs?q=product+marketing+manager&l=Remote&vjk=3d31d2b9a3f41f67) / [Company posting](https://jobs.ashbyhq.com/ravenna/ab37f428-6e20-4413-837c-dbc379a5a742) — Submitted 2026-09-28 | Indeed | Cooper |
+| Ravenna | Product Marketing Manager (Founding) | Seattle / Remote | Submitted | 2026-09-28 | Not shown (early-stage + equity) | [Indeed](https://www.indeed.com/jobs?q=product+marketing+manager&l=Remote&vjk=3d31d2b9a3f41f67) / [Company posting](https://jobs.ashbyhq.com/ravenna/ab37f428-6e20-4413-837c-dbc379a5a742) — Submitted 2026-09-28; rejected 2026-09-30 | Indeed | Cooper |
 | Clarivate | Senior Product Marketing Manager | Remote | Drafting application | 2026-09-28 | Not shown | [Indeed](https://www.indeed.com/jobs?q=product+marketing+manager&l=Remote&vjk=e3380cbec9d71d36) / [Company posting](https://careers.clarivate.com/job/JREQ136176/Senior-Product-Marketing-Manager) | Indeed | Cooper |
 
 ## Business Development
