@@ -47,7 +47,7 @@
 
 | Company | Role | Location | Status | Date of latest update | Salary Range | Job Link / Notes | Source | Agent |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| AfterShip | Senior Web Marketing Manager | Remote-first | Submitted | 2026-09-28 | $160,000–$204,000/yr | [Indeed](https://www.indeed.com/jobs?q=ecommerce+manager&l=Remote&vjk=76b8555a186d6a6b) / [Company posting](https://www.aftership.com/careers/jobs/6147902004) — Submitted 2026-09-28; rejected 2026-09-30 | Indeed | Cooper |
+| AfterShip | Senior Web Marketing Manager | Remote-first | Rejected | 2026-09-30 | $160,000–$204,000/yr | [Indeed](https://www.indeed.com/jobs?q=ecommerce+manager&l=Remote&vjk=76b8555a186d6a6b) / [Company posting](https://www.aftership.com/careers/jobs/6147902004) — Submitted 2026-09-28; rejected 2026-09-30 | Indeed | Cooper |
 | Kreek LLC | TikTok Shop Manager | Remote (US hours) | Submitted | 2026-10-05 | $100,000/yr | LinkedIn post (founder) — application email sent by Allison 2026-10-05 to team@kreekllc.com | LinkedIn | Cooper |
 | Talking Rain Beverage | Sr. Direct to Consumer & Owned Channels Manager | Preston, WA (hybrid) | Screening | 2026-09-27 | $105,000–$140,000/yr + 8% bonus | [Indeed](https://www.indeed.com/jobs?q=ecommerce+manager&l=Seattle%2C+WA&vjk=12f7ca4e67f14ece) | Indeed |  |
 | The Pokémon Company International | Product Marketing Manager, Ecommerce | Bellevue, WA (hybrid) | Screening | 2026-09-27 | $95,000–$172,000/yr | [Indeed](https://www.indeed.com/jobs?q=ecommerce+manager&l=Seattle%2C+WA&vjk=a4ba59b87386b684) | Indeed |  |
