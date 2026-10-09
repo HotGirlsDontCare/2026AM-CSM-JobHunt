@@ -79,6 +79,7 @@
 | Company | Role | Location | Status | Date of latest update | Salary Range | Job Link / Notes | Source | Agent |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Long Term Stock Exchange (LTSE) | Head of Business Development, Listings | Remote-first | Drafting application | 2026-09-27 | $250,000–$350,000/yr | [Indeed](https://www.indeed.com/jobs?q=partnerships+manager&l=Remote&sort=date&vjk=e99ca7c5ff3bfd8b) / [Company posting](https://job-boards.greenhouse.io/ltse/jobs/5249675007) | Indeed | Cooper |
+| SpaceX (Starlink) | Sr. Business Operations Manager (Starlink Growth) | Redmond, WA | Drafting application | 2026-10-09 | $135,000–$205,000/yr base | [Company posting](https://job-boards.greenhouse.io/spacex/jobs/8871575002) — drafted (tailored CV + cover letter) and queued for review; nothing submitted | Greenhouse | Cooper |
 | Bally's Interactive (Telescope) | VP, Business Development – Brands and Agencies | Remote | Drafting application | 2026-09-27 | $185,000–$225,000 base + 7–10% commission | [Indeed](https://www.indeed.com/jobs?q=partnerships+manager&l=Remote&sort=date&vjk=df5c90458a7009e1) / [Company posting](https://telescope.tv/about/) | Indeed | Cooper |
 
 ## Account Executive
