@@ -108,3 +108,9 @@
 | OnHires | Partner Success Manager, Growth & Performance Marketing | Remote, US/Canada | Application submitted | 2026-10-06 | $115,000–$125,000/yr | [LinkedIn](https://www.linkedin.com/jobs/view/4475543190/) (Easy Apply) — submitted by Cooper with Allison's approval using LinkedIn account email; kept as-is per her decision (standard LinkedIn résumé rather than tailored PDF). Hiring employer anonymous (recruiter listing) | LinkedIn | Cooper | — 2026-10-13 second confirmation received (LinkedIn job 4478781181): possible duplicate application, flagged to Allison
 | MinIO | Partner Manager (Central) | Remote | Drafting application | 2026-09-27 | Not shown | [Indeed](https://www.indeed.com/jobs?q=partner+manager&l=Remote&from=searchOnHP&vjk=490546ca23e780a0) / [Company posting](https://job-boards.greenhouse.io/minio/jobs/5363344008) | Indeed | Cooper |
 | TripleLift | Partner Manager | Remote | Skipped | 2026-09-27 | $90,000–$130,000/yr | [Indeed](https://www.indeed.com/jobs?q=partner+manager&l=Remote&from=searchOnHP&vjk=e5895d20b341ccd4) — skipped: not remote — Los Angeles/San Francisco office-based | Indeed |  |
+
+## Other
+
+| Company | Role | Location | Status | Date of latest update | Salary Range | Job Link / Notes | Source | Agent |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LanguageLine Solutions | Mandarin Interpreter (US-MANDARIN-EVG) | US-Remote | Application submitted | 2026-10-13 | Hourly (not shown) | [Company posting](https://languageline.wd5.myworkdayjobs.com/LLS_Careers/job/US-Remote/Mandarin-Interpreter_US-MANDARIN-EVG) — applied by Allison herself; hourly interpreter role, outside her senior-track scope but uses her bilingual Mandarin edge | Workday | Self |
