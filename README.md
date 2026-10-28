@@ -46,6 +46,7 @@
 | Modernize Home Services | Senior Manager, Account Management | Remote | Drafting application | 2026-09-27 | $100,000–$135,000/yr | [Indeed](https://www.indeed.com/jobs?q=senior+account+manager&l=Remote&vjk=4a6aa3ce56062076) / [Company posting](https://modernize.com/careers?gh_jid=8001505) | Indeed | Cooper |
 | Twin Health | Senior Manager, Client Growth & Success | Remote | Drafting application | 2026-09-28 | $130,000–$145,000 + bonus | [Indeed](https://www.indeed.com/jobs?q=senior+account+manager&l=Remote&vjk=8cb84e894c2274ec) / [Company posting](https://job-boards.greenhouse.io/twinhealth/jobs/6191182004) — On hold 2026-09-28 (mailing address required; Hsuan declined to provide) | Indeed | Cooper |
 | Nuvei | Senior Relationship Manager, Strategic Accounts | Remote | Drafting application | 2026-09-27 | Not shown | [Indeed](https://www.indeed.com/jobs?q=senior+account+manager&l=Remote&vjk=3a70aa683d7cd260) | Indeed | Cooper |
+| Seel | Strategic Account Manager | Not shown | Interviewing — interview scheduled 2026-10-29 | 2026-10-28 | Not shown | Referred by headhunter; interview scheduled Thu 2026-10-29 | Headhunter | Self |
 
 ## Performance Marketing
 
@@ -101,6 +102,7 @@
 | Socure | Account Executive Director, Federal | Remote (US) | Skipped | 2026-09-27 | $150,000–$180,000/yr | [Indeed](https://www.indeed.com/jobs?q=business+development+manager&l=Remote&radius=25&sort=date&vjk=9f32bbf411e86d1d) — skipped: requires federal sales experience (candidate ruled out) | Indeed |  |
 | Cisco (Splunk) | Virtual Sales Account Executive, Federal Civilian | Remote (US) | Skipped | 2026-09-27 | $109,000–$165,800/yr | [Indeed](https://www.indeed.com/jobs?q=account+executive&l=Remote&radius=25&from=searchOnDesktopSerp&vjk=3752193b275109ab) — skipped: requires federal sales experience (candidate ruled out) | Indeed |  |
 | Zuora | Enterprise Account Executive, Expand | Boston, MA (remote TBD) | Skipped | 2026-09-27 | $275,000–$325,000 OTE | [Indeed](https://www.indeed.com/jobs?q=account+executive&l=Remote&radius=25&from=searchOnDesktopSerp&vjk=e816467db5bbd3ac) — skipped: not remote-eligible (Atlanta/Boston/NYC office cities only) | Indeed |  |
+| Pixevere | Account Executive | Not shown | Interviewing — first interview 2026-10-23 | 2026-10-23 | Not shown | Referred by headhunter; interviewed Fri 2026-10-23 | Headhunter | Self |
 
 ## Partnerships
 
